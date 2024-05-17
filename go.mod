@@ -1,4 +1,4 @@
-module gitlab.skig.tech/zero-core/sharding
+module github.com/terra-v99/sharding
 
 go 1.20
 
